@@ -1,0 +1,8 @@
+.login-container{
+    margin-top: 10vw;
+    margin-left: 10vw;
+   /* // margin: auto; */
+    width:60%;
+    border : 1px solid blueviolet;
+    align-content: center;
+}
